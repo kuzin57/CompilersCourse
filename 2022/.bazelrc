@@ -1,0 +1,4 @@
+build --spawn_strategy=standalone
+build --copt=-Iexternal_llvm/include
+build --copt=-I/usr/include
+
